@@ -1,7 +1,7 @@
 {
-    "name": "mindplay/middleman",
+    "name": "vakata/middleman",
     "type": "library",
-    "description": "PSR-7 middleware dispatcher. Let's stop trying to make this complicated.",
+    "description": "PSR-15 middleware dispatcher. Let's stop trying to make this complicated.",
     "license": "LGPL-3.0+",
     "authors": [
         {
